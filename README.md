@@ -6,13 +6,21 @@ https://user-images.githubusercontent.com/42466646/156942679-02dde87e-db72-4957-
 
 
 
-Comparison is as follows
+### Comparison is as follows
+
 ![unityvsmatlab](https://user-images.githubusercontent.com/42466646/156942609-3e9f524b-c822-470a-aad5-2f616f3043e8.jpg)
 
-Simulink model can be found below
+### Simulink model can be found below
+
 ![matlab1dof](https://user-images.githubusercontent.com/42466646/156942378-86b3d3b1-4ab9-419a-a1fe-e80e5dc3228a.jpg)
 
-Result:
+### Result 
+
 ![1dodscope](https://user-images.githubusercontent.com/42466646/156942580-98b5b844-e79b-4ead-8abc-e9fbfdaa4be6.jpg)
 
-I would like to thank Berkay Alp Çakal for the graph component he made for debugging purposes. Please consider checking out his work. https://github.com/berkayalpcakal
+### Unity physics settings
+
+![Screenshot 2022-03-07 002654](https://user-images.githubusercontent.com/42466646/156942875-08c3bb0f-6720-483d-8e65-d894d4a51c47.jpg)
+
+
+I would like to thank @github/berkayalpcakal for the graph component he made for debugging purposes. Please consider checking out [his work](https://github.com/berkayalpcakal).

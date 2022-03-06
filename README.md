@@ -14,3 +14,5 @@ Simulink model can be found below
 
 Result:
 ![1dodscope](https://user-images.githubusercontent.com/42466646/156942580-98b5b844-e79b-4ead-8abc-e9fbfdaa4be6.jpg)
+
+I would like to thank Berkay Alp Çakal for the graph component he made for debugging purposes. Please consider checking out his work. https://github.com/berkayalpcakal
